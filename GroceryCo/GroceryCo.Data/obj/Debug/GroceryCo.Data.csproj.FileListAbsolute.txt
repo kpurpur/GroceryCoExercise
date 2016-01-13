@@ -1,0 +1,9 @@
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\bin\Debug\GroceryCo.Data.dll.config
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\bin\Debug\GroceryCo.Data.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\bin\Debug\GroceryCo.Data.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\bin\Debug\EntityFramework.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\bin\Debug\EntityFramework.xml
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\obj\Debug\GroceryCo.Data.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data\obj\Debug\GroceryCo.Data.pdb

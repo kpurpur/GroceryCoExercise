@@ -1,0 +1,17 @@
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\ShoppingCart.txt
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.ConsoleApp.exe.config
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.ConsoleApp.exe
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.ConsoleApp.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.DTO.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.Service.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.Data.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.DTO.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.Service.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\bin\Debug\GroceryCo.Data.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\obj\Debug\GroceryCo.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\obj\Debug\GroceryCo.ConsoleApp.exe
+C:\Projects\Blatant\GroceryCo\GroceryCo.ConsoleApp\obj\Debug\GroceryCo.ConsoleApp.pdb

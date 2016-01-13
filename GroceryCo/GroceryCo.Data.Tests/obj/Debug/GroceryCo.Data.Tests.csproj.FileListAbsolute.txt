@@ -1,0 +1,10 @@
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\bin\Debug\GroceryCo.Data.Tests.dll.config
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\bin\Debug\GroceryCo.Data.Tests.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\bin\Debug\GroceryCo.Data.Tests.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\bin\Debug\GroceryCo.Data.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\bin\Debug\EntityFramework.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\bin\Debug\GroceryCo.Data.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\bin\Debug\EntityFramework.xml
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\obj\Debug\GroceryCo.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\obj\Debug\GroceryCo.Data.Tests.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.Data.Tests\obj\Debug\GroceryCo.Data.Tests.pdb

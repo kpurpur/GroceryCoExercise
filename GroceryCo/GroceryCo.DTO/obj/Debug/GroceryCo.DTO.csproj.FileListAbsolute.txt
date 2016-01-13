@@ -1,0 +1,4 @@
+C:\Projects\Blatant\GroceryCo\GroceryCo.DTO\bin\Debug\GroceryCo.DTO.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.DTO\bin\Debug\GroceryCo.DTO.pdb
+C:\Projects\Blatant\GroceryCo\GroceryCo.DTO\obj\Debug\GroceryCo.DTO.dll
+C:\Projects\Blatant\GroceryCo\GroceryCo.DTO\obj\Debug\GroceryCo.DTO.pdb
